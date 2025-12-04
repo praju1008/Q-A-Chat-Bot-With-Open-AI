@@ -1,0 +1,3 @@
+LangChain API KEY:-  [REDACTED - Store in .env file, not in version control]
+
+Open API Key:- [REDACTED - Store in .env file, not in version control]
